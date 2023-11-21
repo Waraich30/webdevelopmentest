@@ -12,10 +12,12 @@
 .firstpage1{float: left!important;}
 
 .img5{float: left!important
-    ;height: 533px;width: 600px;margin-top: -25px;margin-bottom: -50px;}
+    ;height: 580px;width: 600px;margin-top: -25px;margin-bottom: -50px;}
 
     .aboutmepage{background-color: #050d1a;}
 
     .text1{font-family: 'Times New Roman', Times, serif;color: white;text-align: center;font-weight: bold;margin-left: 700px;}
 
     .textarea{color: white;margin-top: 200px; font-family: 'Times New Roman', Times, serif; font-weight: bold;}
+
+    .text3{color: white;}
