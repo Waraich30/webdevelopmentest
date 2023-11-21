@@ -1,9 +1,15 @@
-.logo1{height: 50px;width: 130px; margin-left: -10px;}
+.logo1{height: 50px;width: 60px; margin-bottom: -13px; margin-top: -20px; }
 
-.navbar{background-color: #fee600!important;}
+.navbar{background-color: #020306!important;}
 
 .about1{margin-left: 20px;font-family: 'Times New Roman', Times, serif;font-weight: bold; color: white;margin-top: 100px;}
 
 .name1{color: white;}
 
 .scrollspy-example{background-image: url(bg4.jpg);background-size: cover;background-repeat: no-repeat;}
+
+
+.firstpage1{float: left!important;}
+
+.img5{float: left!important
+    ;height: 533px;width: 600px;margin-top: -25px;margin-bottom: -50px;}
